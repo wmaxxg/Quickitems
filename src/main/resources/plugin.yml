@@ -1,0 +1,11 @@
+name: Quickitems
+version: '${project.version}'
+main: me.wmaxxg.quickitems.Quickitems
+api-version: 1.18
+commands:
+  createitem:
+  modifyitem:
+  summonitem:
+  deleteitem:
+  quickitems:
+
